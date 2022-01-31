@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@azure/cosmos": "^3.15.1",
+    "@azure/identity": "^2.0.1"
+  }
+}
